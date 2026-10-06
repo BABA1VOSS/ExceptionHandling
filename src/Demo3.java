@@ -20,6 +20,7 @@ public class Demo3 {
         }
 
         System.out.println("step 2");
+        System.out.println("step 2");
 
     }
 }
