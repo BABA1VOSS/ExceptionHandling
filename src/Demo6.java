@@ -3,6 +3,7 @@ public class Demo6 {
     public static void main(String[] args) {
         try{
             System.out.println("outer try Starts");
+
             try {
                 System.out.println("Inner try Starts");
                 System.out.println(5/0);// new ArithmeticException(" / by zero");
