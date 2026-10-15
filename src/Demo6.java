@@ -17,6 +17,8 @@ public class Demo6 {
 
         catch(ArithmeticException e) {
             System.out.println("Divide by zero : outer");
+
+
         }
     }
 }
