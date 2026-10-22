@@ -21,4 +21,5 @@ public class Demo8 {
         //rule yahi hai ki, pehle sare Exception hai fir generic exception kyunki wo sare Exception handle kar hi lega
         //Lekin agar yahi mein Exception generic wala pehle likh deta hu to mereko Compile time error show karega (already handled by the catch block of the exception) unreachable reh jayegi baki ka
     }
+
 }
